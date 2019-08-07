@@ -1,6 +1,6 @@
 ## AMS 2019 Short Course on Community Radar Software
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/openradar/AMS-Open-Source-Radar-2019/master)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/openradar/AMS-Open-Source-Radar-2019/master)
 
 
 The course will take place on September 15th 2019, right before the [2019 AMS Radar Conference](hhttps://cscenter.co.jp/icrm2019/). We will introduce the participants to [community software packages](http://openradarscience.org) designed for radar data processing, including (but not limited to) [BALTRAD](http://git.baltrad.eu/), [Py-ART](http://arm-doe.github.io/pyart/), and [wradlib](https://wradlib.org).
