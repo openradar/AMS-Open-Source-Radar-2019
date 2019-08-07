@@ -1,0 +1,21 @@
+name: openradar2019
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - cython
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyter
+  - xarray
+  - netcdf4
+  - nose
+  - basemap
+  - wradlib
+  - cartopy
+  - arm_pyart
+  - boto
+  - boto3
+  - docutils
