@@ -22,9 +22,9 @@ Participants need to bring their own 64-bit notebook (Linux, Windows, Mac). All 
 * 10:00 - 10:30 [A feel of scientific Python](intro-python)
 * 10:30 - 11:00 Coffee break
 * 11:00 - 11:30 [Collaborative development: git live demo](git-demo)
-* 11:30 - 12:30 [Hands on Py-ART](pyart)
+* 11:30 - 12:30 [Hands on BALTRAD](baltrad)
 * 12:30 - 13:30 Lunch break
-* 13:30 - 14:30 [Hands on BALTRAD](baltrad)
+* 13:30 - 14:30 [Hands on Py-ART](pyart)
 * 14:30 - 15:30 [Hands on wradlib](wradlib)
 * 15:30 - 16:00 Coffee break
 * 16:00 - 17:00 [Open slot, discussion, evaluation](open-slot)
