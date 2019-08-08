@@ -13,7 +13,6 @@ dependencies:
   - intake::intake-xarray
   - zarr
   - matplotlib
-  - tornado=5.*
   - numcodecs
   - python-blosc
   - lz4
