@@ -1,2 +1,16 @@
 #!/bin/bash
 echo "Nothing to see here"
+#!/bin/bash
+echo "post"
+set -euo pipefail
+#
+jupyter serverextension enable --py nbserverproxy --sys-prefix
+# labextensions
+jupyter labextension install @jupyter-widgets/jupyterlab-manager \
+                             @pyviz/jupyterlab_pyviz \
+                             jupyter-leaflet
+
+# download data
+cd /home/jovyan
+bash ./binder/provision.sh
+cd /home/jovyan
