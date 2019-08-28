@@ -1,4 +1,4 @@
-name: openradar2019
+name: saws
 channels:
   - conda-forge
   - defaults
@@ -7,17 +7,25 @@ dependencies:
   - numpy
   - xarray
   - matplotlib
-  - jupyter
   - cython
   - scipy
   - netcdf4
   - wradlib
   - cartopy
-  - arm_pyart
+  - h5py
   - boto
   - boto3
   - docutils
+  - cython
+  - pip
+  - nodejs
+  - nbserverproxy
+  - ipyleaflet
   - pip:
+    - git+https://github.com/ARM-DOE/pyart.git
+    - git+https://github.com/openradar/PyDDA.git
     - kubernetes
     - graphviz
     - nexradaws
+    - cdsapi
+    - git+https://github.com/CSU-Radarmet/CSU_RadarTools.git
