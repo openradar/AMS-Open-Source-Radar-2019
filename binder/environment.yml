@@ -1,4 +1,4 @@
-name: saws
+name: ams2019
 channels:
   - conda-forge
   - defaults
