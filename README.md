@@ -3,7 +3,7 @@
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/openradar/AMS-Open-Source-Radar-2019/master)
 
 
-The course will take place on September 15th 2019, right before the [2019 AMS Radar Conference](hhttps://cscenter.co.jp/icrm2019/). We will introduce the participants to [community software packages](http://openradarscience.org) designed for radar data processing, including (but not limited to) [BALTRAD](http://git.baltrad.eu/), [Py-ART](http://arm-doe.github.io/pyart/), and [wradlib](https://wradlib.org).
+The course will take place on September 15th 2019, right before the [2019 AMS Radar Conference](hhttps://cscenter.co.jp/icrm2019/). We will introduce the participants to [community software packages](http://openradarscience.org) designed for radar data processing, including (but not limited to) [BALTRAD](http://git.baltrad.eu/), [Py-ART](http://arm-doe.github.io/pyart/), and [wradlib](https://wradlib.org). Following a welcome, there will be an introduction to Open Science concepts and the Open Radar context.
 
 The common ground for most of those tools is Python, so we'll feature a quick intro to the Python programming language, and endow participants with the basics of how to contribute to community software. For the course, we will provide a [platform-independent virtual machine](http://openradarscience.org/vm-docs/) that contains all the required software, data, and course materials. We will also, for the first time, be experimenting with cloud based solutions like Binder and Pangeo.
 
