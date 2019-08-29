@@ -6,8 +6,8 @@ set -euo pipefail
 jupyter serverextension enable --py nbserverproxy --sys-prefix
 # labextensions
 echo "hell yeah"
-jupyter labextension install @pyviz/jupyterlab_pyviz \
-                             jupyter-leaflet
+#jupyter labextension install @pyviz/jupyterlab_pyviz \
+#                           jupyter-leaflet
 
 #@jupyter-widgets/jupyterlab-manager \
 #
