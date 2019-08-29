@@ -14,7 +14,7 @@ distributed:
 
 kubernetes:
   count:
-    max: 50
+    max: 150
   worker-template:
     metadata:
     spec:
@@ -30,7 +30,7 @@ kubernetes:
           - --memory-limit
           - 7GB
           - --death-timeout
-          - '60'
+          - '160'
         image: ${JUPYTER_IMAGE_SPEC}
         name: dask-worker
         resources:
