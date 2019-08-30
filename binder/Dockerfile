@@ -1,1 +1,1 @@
-FROM scollis/pgimnomod:2019-08-29-1 
+FROM pangeo/base-notebook-onbuild:latest
