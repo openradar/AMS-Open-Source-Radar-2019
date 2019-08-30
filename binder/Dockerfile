@@ -1,1 +1,1 @@
-FROM pangeo/base-notebook-onbuild:latest
+FROM pangeo/base-notebook-onbuild:2019.08.22
