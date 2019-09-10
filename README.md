@@ -14,6 +14,7 @@ The common ground for most of those tools is Python, so we'll feature a quick in
 * Jackson, Bobby (Argonne National Laboratory, USA)
 * Michelson, Daniel B. (Environment and Climate Change, Canada)
 * Soderholm, Joshua (Australian Bureau of Meteorology, Australia)
+* Javornik, Brenda, (National Center for Atmospheric Research)
 
 
 ### Things you need to prepare
@@ -30,5 +31,6 @@ Participants need to bring their own 64-bit notebook (Linux, Windows, Mac). All 
 * 13:30 - 14:30 [Hands on BALTRAD](baltrad)
 * 14:30 - 15:30 [Hands on Py-ART](pyart)
 * 15:30 - 16:30 [Hands on wradlib](wradlib)
+* 16:30 - 17:00 The LROSE software ecosystem and wap up. 
 
 
