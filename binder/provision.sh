@@ -16,3 +16,9 @@ wget http://www.mcs.anl.gov/~scollis/pyart/nsaxsaprppiC1.a1.20140201.184802.nc
 wget http://www.mcs.anl.gov/~scollis/pyart/sgpxsaprcmacsurI5.c1.20170801.044013.nc
 cd ..
 cd ~
+
+cd ~
+wget https://github.com/wradlib/wradlib-data/archive/master.zip
+unzip master.zip
+cd ~
+export WRADLIB_DATA=${PWD}/wradlib-data-master
